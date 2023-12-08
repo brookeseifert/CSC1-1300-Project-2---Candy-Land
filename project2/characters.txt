@@ -1,0 +1,5 @@
+character name|stamina|gold|candies
+JellyBean_Jane|25|50|Fearsome Fudge,Lucky Licorice,Venomous Vortex,Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Frosty Fizz,Bubblegum Blast
+MarvelousMorsel_Molly|20|60|Caramel Comet,Frosty Fizz,Sparkling Sapphire,Toxic Taffy,Lucky Licorice,Bubblegum Blast,Venomous Vortex,Breezy Butterscotch,Frosty Fizz
+CutesyChocolate_Charlie|20|65|Bubblegum Blast,Fearsome Fudge,Breezy Butterscotch,Lucky Licorice,Frosty Fizz,Venomous Vortex,Lucky Licorice,Sparkling Sapphire,Caramel Comet
+GumDrop_Georgie|25|55|Caramel Comet,Sparkling Sapphire,Fearsome Fudge,Lucky Licorice,Toxic Taffy,Breezy Butterscotch,Lucky Licorice,Venomous Vortex,Bubblegum Blast

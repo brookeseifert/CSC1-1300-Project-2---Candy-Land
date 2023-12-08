@@ -1,0 +1,10 @@
+Name|Description|Effect type|Effect value|Candy type|Price
+Frosty Fizz|Boosts player's stamina by 10 units|stamina|10|magical|10
+Breezy Butterscotch|Boosts player's stamina by 15 units|stamina|15|magical|10
+Fearsome Fudge|Creates a temporary barricade on a tile|other|20|gummy candy|20
+Lucky Licorice|Decreases opponents stamina by 10 units (mild)|stamina|10|poison|15
+Venomous Vortex|Decreases opponents stamina by 15 units(moderate)|stamina|15|poison|20
+Toxic Taffy|Decreases opponents stamina by 20 units(strong)|stamina|20|poison|25
+Bubblegum Blast|Protects against Lucky Licorice (mild posion candy)|other|1|immunity|15
+Sparkling Sapphire|Protects against Lucky Licorice and Venomous Vortex(mild and moderate posion candies)|other|2|immunity|20
+Caramel Comet|Protects against all poison candies|other|3|immunity|25
